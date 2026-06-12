@@ -154,4 +154,6 @@ Model is saved to `backend/ml/food_prediction_model.joblib` and loaded automatic
 
 ## License
 
-MIT
+MIT License
+
+@Developed by ***(NITHISH KUMAR S)[https://github.com/nithysh111/]***
