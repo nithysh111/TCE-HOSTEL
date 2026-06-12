@@ -1,0 +1,8 @@
+-- =============================================================================
+-- Schema has moved to the database layer (Phase 2).
+--
+-- Run this instead:
+--   mysql -u root -p < database/schema/schema.sql
+--
+-- Full documentation: docs/DATABASE.md
+-- =============================================================================

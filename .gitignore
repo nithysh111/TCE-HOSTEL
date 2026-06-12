@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.db
+*.joblib
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & uploads
+backend/logs/*.log
+backend/uploads/menus/*
+!backend/uploads/menus/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
